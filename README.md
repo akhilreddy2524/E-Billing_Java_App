@@ -1,4 +1,6 @@
 # E-Billing Java Application
+### Project Timeline Note: 
+This project was originally developed between January 2021 and May 2021. However, it has been recently uploaded to GitHub for sharing and documentation purposes. While the commit history may not reflect the original development timeline, feel free to explore the project and reach out with any questions or feedback.
 ## Project Description
 Welcome to the repository for our robust E-Billing Java application! This project is aimed at streamlining customer details and payment processes, providing an efficient solution for managing billing operations. Developed using Java and Android Studio, our Android application offers a comprehensive suite of features to enhance efficiency and convenience for both users and administrators.
 ## Key Features
